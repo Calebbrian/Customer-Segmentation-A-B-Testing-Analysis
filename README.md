@@ -34,7 +34,7 @@ The goal is to uncover customer behavior patterns, measure campaign performance,
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 - **Campaign Effectiveness**: No significant difference in CTR or revenue between Campaign A and B.  
 - **Segment Insights**:  
   - Segment 0 & 3 are the most valuable (high spending).  
@@ -44,13 +44,13 @@ The goal is to uncover customer behavior patterns, measure campaign performance,
 
 ---
 
-## 🚀 Business Impact
+## Business Impact
 - Enables **targeted marketing** instead of one-size-fits-all campaigns.  
 - Helps optimize **resource allocation** by focusing on high-value customers.  
 - Provides clear **next steps for experimentation and personalization**.  
 
 
-## 👤 Author
+## Author
 - **Calebbrian**  
 - Data Analyst | Python & SQL Enthusiast | Business Insights  
 
